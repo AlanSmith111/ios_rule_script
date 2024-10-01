@@ -6,7 +6,8 @@
 
 ## 特别声明
 
-随便改了一下，加 Claude 图标， Perplexity 规则等。
+特别感谢 blackmatrix7 提供的项目。
+添加 Claude 图标， Perplexity 规则等。
 
 ## 规则
 
