@@ -1,14 +1,11 @@
-# 🧸 HBO(美国)
+# 🧸 MAX
 
 ## 前言
 
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-QuantumultX定制化规则-7cd1e3) 
 
-HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。
-
-分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
-
-请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
+~~HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。~~
+MAX 规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
@@ -17,21 +14,24 @@ HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 2  | 
-| HOST-SUFFIX | 8  | 
-| USER-AGENT | 1  | 
-| TOTAL | 11  | 
+| HOST | 9  | 
+| HOST-SUFFIX | 17  | 
+| USER-AGENT | 2  | 
+| TOTAL | 29  | 
 
 
 ## QuantumultX 
 
 #### 配置建议
-- HBOUSA.list 单独使用。
-
+~~- HBOUSA.list 单独使用。~~
+- MAX.list 单独使用。
+  
 #### 规则链接
-**MASTER分支 (每日更新)**
+**MASTER分支 (~~每日更新~~)**
+**MASTER分支 (不会更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/HBOUSA/HBOUSA.list
+~~https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/HBOUSA/HBOUSA.list~~
+https://raw.githubusercontent.com/AlanSmith111/ios_rule_script/refs/heads/master/rule/QuantumultX/HBOUSA/MAX.list
 
 **MASTER分支 CDN (每日更新)**
 
