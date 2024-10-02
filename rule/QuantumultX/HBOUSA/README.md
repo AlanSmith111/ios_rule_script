@@ -18,7 +18,7 @@ MAX 规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 9  | 
 | HOST-SUFFIX | 17  | 
 | USER-AGENT | 2  | 
-| TOTAL | 29  | 
+| TOTAL | 28  | 
 
 
 ## QuantumultX 
