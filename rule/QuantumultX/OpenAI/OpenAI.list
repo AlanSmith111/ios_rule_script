@@ -1,13 +1,13 @@
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:18:28
+# UPDATED: 2024-10-03 08:12:28
 # HOST: 8
 # HOST-KEYWORD: 2
-# HOST-SUFFIX: 25
+# HOST-SUFFIX: 27
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 38
+# TOTAL: 40
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
 HOST,gemini.google.com,OpenAI
@@ -36,6 +36,8 @@ HOST-SUFFIX,observeit.net,OpenAI
 HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
+HOST-SUFFIX,ios.chat.openai.com,OpenAI
+HOST-SUFFIX,browser-intake-datadoghq.com,OpenAI
 HOST-SUFFIX,segment.io,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
