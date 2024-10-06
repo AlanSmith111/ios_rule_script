@@ -2,10 +2,10 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-10-02 08:11:00
-# HOST: 9
+# HOST: 10
 # HOST-SUFFIX: 18
 # USER-AGENT: 2
-# TOTAL: 29
+# TOTAL: 30
 HOST,braze-images.com,MAX
 HOST,cdn-media.brightline.tv,MAX
 HOST,cinemax.com,MAX
@@ -15,6 +15,7 @@ HOST,hbonow.com,MAX
 HOST,maxgo.com,MAX
 HOST,telegraph.prd.api.discomax.com,MAX
 HOST,wmff.warnermediacdn.com,MAX
+HOST,akm.prd.media.h264.io,MAX
 HOST-SUFFIX,atlas.ngtv.io,MAX
 HOST-SUFFIX,auth.max.com,MAX
 HOST-SUFFIX,beam-images.warnermediacdn.com,MAX
