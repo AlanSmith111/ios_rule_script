@@ -33,6 +33,7 @@ HOST-SUFFIX,launchdarkly.com,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,observeit.net,OpenAI
+HOST-SUFFIX,ios.chat.openai.com,OpenAI
 HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
@@ -41,6 +42,7 @@ HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-KEYWORD,openai,OpenAI
+HOST-KEYWORD,perplexity,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
