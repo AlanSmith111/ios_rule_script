@@ -1,19 +1,38 @@
-# NAME: HBOUSA
+# NAME: MAX
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-15 02:13:41
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 9
-# USER-AGENT: 1
-# TOTAL: 11
-DOMAIN,wmff.warnermediacdn.com
-DOMAIN-SUFFIX,cinemax.com
-DOMAIN-SUFFIX,discomax.com
-DOMAIN-SUFFIX,h264.io
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,maxgo.com
-USER-AGENT,HBOMAX*
+# UPDATED: 2024-10-02 08:11:00
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 18
+# DOMAIN-KEYWORD: 1
+# USER-AGENT: 2
+# TOTAL: 30
+DOMAIN,braze-images.com,MAX
+DOMAIN,cdn-media.brightline.tv,MAX
+DOMAIN,cinemax.com,MAX
+DOMAIN,h264.io,MAX
+DOMAIN,hbonow.com,MAX
+DOMAIN,maxgo.com,MAX
+DOMAIN,telegraph.prd.api.discomax.com,MAX
+DOMAIN,wmff.warnermediacdn.com,MAX
+DOMAIN,akm.prd.media.h264.io,MAX
+DOMAIN-SUFFIX,atlas.ngtv.io,MAX
+DOMAIN-SUFFIX,auth.max.com,MAX
+DOMAIN-SUFFIX,beam-images.warnermediacdn.com,MAX
+DOMAIN-SUFFIX,default.any-any.prd.api.discomax.com,MAX
+DOMAIN-SUFFIX,default.beam-amer.prd.api.max.com,MAX
+DOMAIN-SUFFIX,default.beam-amer.use.prd.api.max.com,MAX
+DOMAIN-SUFFIX,default.beam-any.prd.api.max.com,MAX
+DOMAIN-SUFFIX,discomax.com,MAX
+DOMAIN-SUFFIX,hbomax.com,MAX
+DOMAIN-SUFFIX,hbomaxcdn.com,MAX
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,MAX
+DOMAIN-SUFFIX,litix.io,MAX
+DOMAIN-SUFFIX,lightning.warnermediacdn.com,MAX
+DOMAIN-SUFFIX,max.com,MAX
+DOMAIN-SUFFIX,play.max.com,MAX
+DOMAIN-SUFFIX,skydrive.wns.windows.com,MAX
+DOMAIN-SUFFIX,wbd-api.arkoselabs.com,MAX
+USER-AGENT,HBOMAX*,MAX
+USER-AGENT,Max*,MAX
+DOMAIN-KEYWORD,max,MAX
