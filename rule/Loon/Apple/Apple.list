@@ -9,6 +9,8 @@
 # USER-AGENT: 23
 # TOTAL: 1599
 DOMAIN-KEYWORD,apple,Apple
+DOMAIN-KEYWORD,icloud,Apple
+DOMAIN-KEYWORD,itunes,Apple
 DOMAIN-KEYWORD,mzstatic,Apple
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
