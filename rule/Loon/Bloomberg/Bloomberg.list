@@ -4,6 +4,7 @@
 # UPDATED: 2024-07-03 16:16:50
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
+DOMAIN-KEYWORD,bloomberg,Bloomberg
 DOMAIN-SUFFIX,bloomberg.co.kr
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.com.br
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,londonmithraeum.com
 DOMAIN-SUFFIX,neweconomyforum.com
 DOMAIN-SUFFIX,newenergyfinance.com
+DOMAIN-SUFFIX,pub.doubleverify.com
 DOMAIN-SUFFIX,quicktake.video
 DOMAIN-SUFFIX,techatbloomberg.com
 DOMAIN-SUFFIX,tictoc.video
