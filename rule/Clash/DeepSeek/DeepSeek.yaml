@@ -8,6 +8,7 @@
 # IP-ASN: 0
 # IP-CIDR: 0
 # TOTAL: 3
-DOMAIN-KEYWORD,deepseek
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,portal101.cn
+payload:
+  DOMAIN-KEYWORD,deepseek
+  DOMAIN-SUFFIX,deepseek.com
+  DOMAIN-SUFFIX,portal101.cn
